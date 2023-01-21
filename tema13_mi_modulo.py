@@ -7,5 +7,5 @@ def main():
 def tem2():
     print("¡Adios desde mi_modulo.py!")
 
-if __name___ == "__main___":
+if __name__ == "__main__":
     main()
